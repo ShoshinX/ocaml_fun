@@ -1,2 +1,4 @@
 (executable
- (name q1))
+ (name q1)
+ (libraries str)
+ )

@@ -1,4 +1,7 @@
-(executable
- (name q1)
- (libraries str)
- )
+
+(executables
+  (names q1 q14)
+  (libraries str)
+)
+
+
